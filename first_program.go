@@ -1,5 +1,6 @@
 package main
 import "fmt"
 func main() {
-    fmt.Println("hello world")
+    a := 9;
+    fmt.Print(a);
 }
